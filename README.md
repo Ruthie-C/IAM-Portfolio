@@ -37,3 +37,4 @@ For flickering or graphics lag, tweak Graphics Controller and 3D Acceleration op
 Use NAT for internet connectivity in your VM.
 Guest Additions improves performance — install it once Ubuntu is fully set up.
 
+<img width="960" height="505" alt="image" src="https://github.com/user-attachments/assets/b0b54472-0484-4232-b926-06a508fa16c5" />
